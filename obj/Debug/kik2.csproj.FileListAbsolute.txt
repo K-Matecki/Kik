@@ -1,0 +1,6 @@
+D:\Pulpit\kik2\bin\Debug\kik2.exe.config
+D:\Pulpit\kik2\bin\Debug\kik2.exe
+D:\Pulpit\kik2\bin\Debug\kik2.pdb
+D:\Pulpit\kik2\obj\Debug\kik2.csprojAssemblyReference.cache
+D:\Pulpit\kik2\obj\Debug\kik2.exe
+D:\Pulpit\kik2\obj\Debug\kik2.pdb
